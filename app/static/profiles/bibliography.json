@@ -63,7 +63,7 @@
                             "type": "resource",
                             "valueConstraint": {
                                 "descriptionTemplateRef": [ "bfp:Category:Content" ],
-                                "editable": "true",
+                                "editable": "false",
                                 "defaultURI": "http://id.loc.gov/vocabulary/contentTypes/txt",
                                 "defaultLiteral": "text"
                             }
